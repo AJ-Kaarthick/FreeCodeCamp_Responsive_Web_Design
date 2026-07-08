@@ -1,6 +1,6 @@
 # 🚀 freeCodeCamp: Responsive Web Design Certification
 
-Welcome to my central hub tracking my learning journey through the **freeCodeCamp Responsive Web Design** course. This repository showcases my daily coding progress, interactive workshops, and core certification projects.
+Welcome to my central hub tracking my learning journey through the freeCodeCamp Responsive Web Design course. This repository showcases my daily coding progress, interactive workshops, and core certification projects.
 
 🎯 **Goal:** Master modern HTML5, semantic markup, advanced CSS3 (Flexbox/Grid), accessibility, and responsive layouts.
 
@@ -11,6 +11,10 @@ Welcome to my central hub tracking my learning journey through the **freeCodeCam
 | # | Workshop / Project | Key Concepts Explored | Status |
 | :---: | :--- | :--- | :---: |
 | 01 | [🐱 Cat Photo App](./01-CatPhotoApp) | Semantic HTML5, nesting, lists, forms | ✅ Completed |
+| 02 | [🍛 Recipe Page](./02-RecipePage) | Image handling, ordered/unordered list structures | ✅ Completed |
+| 03 | [📚 Bookstore Page](./03-BookstorePage) | Component container division, class and ID attributes | ✅ Completed |
+| 04 | [✈️ Travel Agency Page](./04-TravelAgencyPage) | SEO meta tags, complex anchor nesting, figure structures | ✅ Completed |
+
 ---
 
 ## 💻 How to Run and View the Projects Locally
@@ -23,12 +27,13 @@ Since these are fundamental front-end projects containing raw HTML and CSS, you 
 3. Double-click the `index.html` file. It will automatically open and render directly in your default web browser.
 
 ### Method 2: Live Server Extension (Recommended)
-If you are using **VS Code**:
+If you are using VS Code:
 1. Install the **Live Server** extension by Ritwick Dey.
 2. Open the project folder in VS Code.
-3. Click the **"Go Live"** button in the bottom right corner of the status bar. 
-4. This runs a local development server that instantly refreshes your browser whenever you save changes to your code!
+3. Click the **"Go Live"** button in the bottom right corner of the status bar.
+
+This runs a local development server that instantly refreshes your browser whenever you save changes to your code!
 
 ---
 
-*Feel free to star ⭐ this repository if you want to follow along with my front-end progress!*
+Feel free to star ⭐ this repository if you want to follow along with my front-end progress!
