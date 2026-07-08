@@ -11,8 +11,6 @@ Welcome to my central hub tracking my learning journey through the **freeCodeCam
 | # | Workshop / Project | Key Concepts Explored | Status |
 | :---: | :--- | :--- | :---: |
 | 01 | [🐱 Cat Photo App](./01-CatPhotoApp) | Semantic HTML5, nesting, lists, forms | ✅ Completed |
-| 02 | [☕ Cafe Menu](./02-CafeMenu) | CSS fundamentals, basic styling, selectors | ⏳ Up Next |
-
 ---
 
 ## 💻 How to Run and View the Projects Locally
