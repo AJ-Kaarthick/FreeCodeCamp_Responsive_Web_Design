@@ -14,6 +14,16 @@ Welcome to my central hub tracking my learning journey through the freeCodeCamp 
 | 02 | [🍛 Recipe Page](./02-RecipePage) | Image handling, ordered/unordered list structures | ✅ Completed |
 | 03 | [📚 Bookstore Page](./03-BookstorePage) | Component container division, class and ID attributes | ✅ Completed |
 | 04 | [✈️ Travel Agency Page](./04-TravelAgencyPage) | SEO meta tags, complex anchor nesting, figure structures | ✅ Completed |
+| 05 | [🎵 Music Player](./05-Music%20Player) | Native multimedia injection, control tracking, audio elements | ✅ Completed |
+| 06 | [🎥 Video Player](./06-Video%20Player) | Source stream alternatives, source tracking, media type fallbacks | ✅ Completed |
+| 07 | [🧪 Media Lab](./07-Media%20Lab) | Dual-media integration layouts, asset nesting, layout flows | ✅ Completed |
+| 08 | [❤️ Heart Icon](./08-Heart%20Icon) | Scalable Vector Graphics (SVG), paths, precise vector geometry | ✅ Completed |
+| 09 | [📺 Iframe Video](./09-Iframe%20Video) | Secure embedding frames, cross-origin parameters, display aspect metrics | ✅ Completed |
+| 10 | [🎬 Video Compilation](./10-Video%20Compilation) | Compounded video galleries, grouped block layouts, structural indexing | ✅ Completed |
+| 11 | [🌐 Browser List](./11-Browser%20List) | Native description list architectures (`<dl>`, `<dt>`, `<dd>`) | ✅ Completed |
+| 12 | [💼 Developer Job Tips](./12-Developer%20Job%20Tips) | Direct block/inline quoting structures, metadata source citation attributes | ✅ Completed |
+| 13 | [🐾 Cat Blog](./13-Cat%20Blog) | Fragment link architectures (`href="#id"`), communication protocol links | ✅ Completed |
+| 14 | [📅 Event Hub](./14-Event%20Hub) | Machine-readable date tracking standards, section timeline components | ✅ Completed |
 
 ---
 
