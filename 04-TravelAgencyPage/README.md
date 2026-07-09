@@ -15,8 +15,8 @@ Here is how the image link layout was cleanly structured within semantic figures
 
 ```html
 <figure>
-  <a href="[https://www.freecodecamp.org/learn](https://www.freecodecamp.org/learn)" target="_blank">
-    <img src="[https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=600&auto=format&fit=crop&q=80](https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=600&auto=format&fit=crop&q=80)" alt="The historic Roman Colosseum under a blue sky." />
+  <a href="https://www.freecodecamp.org/learn" target="_blank">
+    <img src="https://images.unsplash.com/photo-1552832230-c0197dd311b5?w=600&auto=format&fit=crop&q=80" alt="The historic Roman Colosseum under a blue sky." />
   </a>
   <figcaption>Explore the ancient history and rich heritage of Rome, Italy.</figcaption>
 </figure>
