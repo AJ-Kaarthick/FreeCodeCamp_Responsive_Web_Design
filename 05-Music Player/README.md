@@ -1,3 +1,7 @@
+🎵 Workshop 05: Music Player Page
+
+This project is a clean, structured media player layout built to satisfy the structural and responsive media requirements of the freeCodeCamp curriculum.
+
 📝 Project Description
 
 The Music Player Page focuses on native HTML5 multimedia integration, semantic track layouts, and standard media control behaviors. Instead of relying on external streaming widgets, this version implements direct browser-native delivery with loops and controls to construct an accessible, inline playlist of curated tracks.
