@@ -24,6 +24,7 @@ Welcome to my central hub tracking my learning journey through the freeCodeCamp 
 | 12 | [💼 Developer Job Tips](./12-Developer%20Job%20Tips) | Direct block/inline quoting structures, metadata source citation attributes | ✅ Completed |
 | 13 | [🐾 Cat Blog](./13-Cat%20Blog) | Fragment link architectures (`href="#id"`), communication protocol links | ✅ Completed |
 | 14 | [📅 Event Hub](./14-Event%20Hub) | Machine-readable date tracking standards, section timeline components | ✅ Completed |
+| 15 | [🏨 Hotel Feedback Form](./15-Hotel%20Feedback%20Form) | Advanced validation, fieldset groupings, complex inputs | ✅ Completed |
 
 ---
 
