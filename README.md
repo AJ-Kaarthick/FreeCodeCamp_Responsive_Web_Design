@@ -26,6 +26,7 @@ Welcome to my central hub tracking my learning journey through the freeCodeCamp 
 | 14 | [📅 Event Hub](./14-Event%20Hub) | Machine-readable date tracking standards, section timeline components | ✅ Completed |
 | 15 | [🏨 Hotel Feedback Form](./15-Hotel%20Feedback%20Form) | Advanced validation, fieldset groupings, complex inputs | ✅ Completed |
 | 16 | [📊 Exams Table](./16-Exams-Table) | Tabular structure layout, column spanning, data matrices | ✅ Completed |
+
 ---
 
 ## 💻 How to Run and View the Projects Locally
