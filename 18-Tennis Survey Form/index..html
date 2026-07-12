@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Survey Form</title>
+  </head>
+  <body>
+    <h1 id="title">Tennis Club Membership Survey</h1>
+    <p id="description">Please fill out this form to help us improve our court facilities and training programs.</p>
+
+    <form id="survey-form">
+      
+      <label id="name-label" for="name">Full Name:</label><br>
+      <input id="name" type="text" required placeholder="e.g., John Cena"><br><br>
+      
+      <label id="email-label" for="email">Email Address:</label><br>
+      <input id="email" type="email" required placeholder="example@gmail.com"><br><br>
+
+      <label id="number-label" for="number">Weekly Playing Hours:</label><br>
+      <input id="number" type="number" min="1" max="40" placeholder="eg., 5"><br><br>
+
+      <label for="dropdown">Skill Level:</label><br>
+      <select id="dropdown">
+        <option value="beginner">Beginner</option>
+        <option value="intermediate">Intermediate</option>
+        <option value="advanced">Advanced</option>
+      </select><br><br>
+
+      <p>Membership Status:</p>
+      <input type="radio" id="member-yes" name="membership-status" value="yes">
+      <label for="member-yes">Current Member</label><br>
+      
+      <input type="radio" id="member-no" name="membership-status" value="no">
+      <label for="member-no">Guest Player</label><br><br>
+
+      <p>Preferred Activities (Select all that apply):</p>
+      <input type="checkbox" id="facility-singles" name="preferences" value="singles">
+      <label for="facility-singles">Singles Matches</label><br>
+
+      <input type="checkbox" id="facility-doubles" name="preferences" value="doubles">
+      <label for="facility-doubles">Doubles Matches</label><br>
+
+      <input type="checkbox" id="facility-drills" name="preferences" value="drills">
+      <label for="facility-drills">Training Drills</label><br>
+
+      <input type="checkbox" id="facility-tournaments" name="preferences" value="tournaments">
+      <label for="facility-tournaments">Club Tournaments</label><br><br>
+
+      <p>Preferred Court Surfaces & Formats (Select all that apply):</p>
+      <input type="checkbox" id="facility-singles" name="preferences" value="singles">
+      <label for="facility-singles">Singles Matches</label><br>
+
+      <input type="checkbox" id="facility-doubles" name="preferences" value="doubles">
+      <label for="facility-doubles">Doubles Matches</label><br>
+
+      <input type="checkbox" id="facility-clay" name="preferences" value="clay-court">
+      <label for="facility-clay">Clay Courts</label><br>
+
+      <input type="checkbox" id="facility-hard" name="preferences" value="hard-court">
+      <label for="facility-hard">Synthetic Hard Courts</label><br>
+    
+      <label for="comments">Additional Comments:</label><br>
+      <textarea id="comments" placeholder="Any additional feedback about court maintenance or coaching..."></textarea><br><br>
+
+      <p>Preferred Playing Window:</p>
+      <input type="radio" id="time-morning" name="preferred-time" value="morning">
+      <label for="time-morning">Morning Sessions (6:00 AM - 10:00 AM)</label><br>
+
+      <input type="radio" id="time-evening" name="preferred-time" value="evening">
+      <label for="time-evening">Evening Sessions under Lights (4:00 PM - 9:00 PM)</label><br><br>
+      
+      <input type="submit" id="submit" value="Submit">
+      <input type="reset" id="reset" value="Reset">
+    </form>
+  </body>
+</html>
