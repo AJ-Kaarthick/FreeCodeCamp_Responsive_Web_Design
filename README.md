@@ -43,6 +43,10 @@ These are custom, objective-driven projects I built independently from scratch f
 | 16 | [📊 Exams Table](./01-HTML/16-Exams-Table) | Tabular structure layout, column spanning, data matrices | ✅ Completed |
 | 17 | [📚 Book Catalog Table](./01-HTML/17-Book-Catalog-Table) | Viewport configuration, 4-column row spans, meta alignment | 🌟 Custom |
 | 18 | [📝 Tennis Survey Form](./01-HTML/18-Survey-Form) | FCC Certification Lab, advanced multi-type form inputs, structured field validation | 🌟 Custom |
+| 19 | [♿ Accessibility Refactor](./HTML/19-Accessibility-Refactor) | Heading hierarchy alignment, semantic landmark elements, screen reader outline optimization | ✅ Completed |
+| 20 | [📅 Tech Conference Table](./HTML/20-Tech-Conference-Schedule) | Multi-column tabular spans, header scope context anchors, semantic grid descriptions | ✅ Completed |
+| 21 | [💳 Donation Form](./HTML/21-Donation-Form) | Explicit label-input mappings, contextual data attributes (`email`/`number`), form required triggers | ✅ Completed |
+| 22 | [🎛️ Accessible Audio Controls](./HTML/22-Accessible-Audio-Controls) | Compound ARIA string tracking (`aria-labelledby`), semantic range sliders, explicit button types | ✅ Completed |
 
 ---
 
