@@ -16,6 +16,7 @@ These are custom, objective-driven projects I built independently from scratch f
 *   [📅 14: Event Hub](./01-HTML/14-Event%20Hub) - Section timeline components with machine-readable date/time attributes.
 *   [📚 17: Book Catalog Table](./01-HTML/17-Book-Catalog-Table) - Advanced semantic table layouts, 4-column cell merges, and viewport configurations.
 *   [📝 18: Tennis Survey Form](./01-HTML/18-Survey-Form) - *FCC Certification Lab* • Multi-type form inputs, responsive layouts, and structured HTML5 field validation.
+*   [🛒 23: Checkout Page](./HTML/23-Checkout-Page) - Custom checkout form layout focusing on complex ARIA descriptions, required data constraints, and semantic section nodes.
 
 ---
 
@@ -47,6 +48,7 @@ These are custom, objective-driven projects I built independently from scratch f
 | 20 | [📅 Tech Conference Table](./HTML/20-Tech-Conference-Schedule) | Multi-column tabular spans, header scope context anchors, semantic grid descriptions | ✅ Completed |
 | 21 | [💳 Donation Form](./HTML/21-Donation-Form) | Explicit label-input mappings, contextual data attributes (`email`/`number`), form required triggers | ✅ Completed |
 | 22 | [🎛️ Accessible Audio Controls](./HTML/22-Accessible-Audio-Controls) | Compound ARIA string tracking (`aria-labelledby`), semantic range sliders, explicit button types | ✅ Completed |
+| 23 | [🛒 Checkout Page](./HTML/23-Checkout-Page) | Complex ARIA descriptions (`aria-describedby`), hidden visual markers (`aria-hidden`), layout sectioning | 🌟 Custom |
 
 ---
 
