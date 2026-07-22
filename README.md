@@ -56,6 +56,14 @@ These are custom, objective-driven projects I built independently from scratch f
 
 ---
 
+## 🎨 Module 2: CSS & Visual Styling
+
+| # | Project / Workshop | Key Concepts / Technical Skills | Status |
+|---|---|---|---|
+| 01 | [☕ Cafe Menu](./CSS/01-Cafe-Menu) | External stylesheets (`<link>`), Box Model centering, `display: inline-block`, interactive pseudo-classes (`:hover`, `:active`) | ✅ Completed |
+
+---
+
 ## 💻 How to Run and View the Projects Locally
 
 Since these are fundamental front-end projects containing raw HTML and CSS, you do not need to install complex software or packages to run them!
