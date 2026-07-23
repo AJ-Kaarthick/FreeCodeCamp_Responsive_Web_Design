@@ -20,6 +20,12 @@ These are custom, objective-driven projects I built independently from scratch f
 *   [🎬 24: Movie Review Page](./HTML/24-Movie-Review) - Media information review showcase exploring image layout constraints, ARIA accessibility masking, and nested relationship node matrices.
 *   [📻 25: Multimedia Player](./HTML/25-Multimedia-Player) - A semantic dashboard staging cross-origin audio streams, track-synchronized subtitles, and raw layout text nodes.
 
+
+
+
+*   [🎴 02: Business Card](./CSS/02-Business-Card) - Profile card UI component featuring customized typography stacks, centered auto-margins, and normalized anchor states.
+
+
 ---
 
 ## 📊 Learning Roadmap & Progress
@@ -61,6 +67,7 @@ These are custom, objective-driven projects I built independently from scratch f
 | # | Project / Workshop | Key Concepts / Technical Skills | Status |
 |---|---|---|---|
 | 01 | [☕ Cafe Menu](./CSS/01-Cafe-Menu) | External stylesheets (`<link>`), Box Model centering, `display: inline-block`, interactive pseudo-classes (`:hover`, `:active`) | ✅ Completed |
+| 02 | [🎴 Business Card](./CSS/02-Business-Card) | Card layout centering, global body font inheritance, responsive `max-width` images, link decoration removal | 🌟 Custom |
 
 ---
 
