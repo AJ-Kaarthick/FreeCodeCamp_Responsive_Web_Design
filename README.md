@@ -24,7 +24,7 @@ These are custom, objective-driven projects I built independently from scratch f
 
 
 *   [🎴 02: Business Card](./CSS/02-Business-Card) - Profile card UI component featuring customized typography stacks, centered auto-margins, and normalized anchor states.
-
+*   [📝 03: To-Do List](./CSS/03-Stylized-Todo-List) - Interactive task list demonstrating complete anchor pseudo-class cascading (`LVHA`), focus outlines, and nested sub-item list architecture.
 
 ---
 
@@ -68,6 +68,7 @@ These are custom, objective-driven projects I built independently from scratch f
 |---|---|---|---|
 | 01 | [☕ Cafe Menu](./CSS/01-Cafe-Menu) | External stylesheets (`<link>`), Box Model centering, `display: inline-block`, interactive pseudo-classes (`:hover`, `:active`) | ✅ Completed |
 | 02 | [🎴 Business Card](./CSS/02-Business-Card) | Card layout centering, global body font inheritance, responsive `max-width` images, link decoration removal | 🌟 Custom |
+| 03 | [📝 To-Do List](./CSS/03-Stylized-Todo-List) | Anchor state pseudo-classes (`:link`, `:visited`, `:hover`, `:active`, `:focus`), nested lists, form label bindings | 🌟 Custom |
 
 ---
 
