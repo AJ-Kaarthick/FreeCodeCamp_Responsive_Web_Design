@@ -26,6 +26,8 @@ These are custom, objective-driven projects I built independently from scratch f
 *   [🎴 02: Business Card](./CSS/02-Business-Card) - Profile card UI component featuring customized typography stacks, centered auto-margins, and normalized anchor states.
 *   [📝 03: To-Do List](./CSS/03-Stylized-Todo-List) - Interactive task list demonstrating complete anchor pseudo-class cascading (`LVHA`), focus outlines, and nested sub-item list architecture.
 *   [📰 04: Blog Post Card](./CSS/04-Blog-Post-Card) - Article preview card component featuring border accents, `inline-block` action buttons, and hover state transitions.
+*   [🎟️ 05: Event Flyer Page](./CSS/05-Event-Flyer-Page) - Event promotional flyer layout showcasing viewport unit scaling (`vw`), CSS `calc()` layout math, and relative section percentage constraints.
+
 
 ---
 
@@ -71,6 +73,7 @@ These are custom, objective-driven projects I built independently from scratch f
 | 02 | [🎴 Business Card](./CSS/02-Business-Card) | Card layout centering, global body font inheritance, responsive `max-width` images, link decoration removal | 🌟 Custom |
 | 03 | [📝 To-Do List](./CSS/03-Stylized-Todo-List) | Anchor state pseudo-classes (`:link`, `:visited`, `:hover`, `:active`, `:focus`), nested lists, form label bindings | 🌟 Custom |
 | 04 | [📰 Blog Post Card](./CSS/04-Blog-Post-Card) | Background layering, image fitting (`width: 100%`), `border-bottom` accents, `inline-block` button styling | 🌟 Custom |
+| 05 | [🎟️ Event Flyer Page](./CSS/05-Event-Flyer-Page) | Viewport units (`vw`), dynamic `calc(100vh - 100px)` height calculations, section/hr percentage widths | 🌟 Custom |
 
 ---
 
