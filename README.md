@@ -74,6 +74,7 @@ These are custom, objective-driven projects I built independently from scratch f
 | 03 | [📝 To-Do List](./CSS/03-Stylized-Todo-List) | Anchor state pseudo-classes (`:link`, `:visited`, `:hover`, `:active`, `:focus`), nested lists, form label bindings | 🌟 Custom |
 | 04 | [📰 Blog Post Card](./CSS/04-Blog-Post-Card) | Background layering, image fitting (`width: 100%`), `border-bottom` accents, `inline-block` button styling | 🌟 Custom |
 | 05 | [🎟️ Event Flyer Page](./CSS/05-Event-Flyer-Page) | Viewport units (`vw`), dynamic `calc(100vh - 100px)` height calculations, section/hr percentage widths | 🌟 Custom |
+| 06 | [🎂 Greeting Card](./CSS/06-Greeting-Card) | Anchor `:target` section toggling, `::before`/`::after` pseudo-elements, dynamic `scale()` & `skewX()` CSS transforms | 📖 Curriculum |
 
 ---
 
