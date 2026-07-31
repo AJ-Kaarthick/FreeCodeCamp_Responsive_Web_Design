@@ -75,6 +75,7 @@ These are custom, objective-driven projects I built independently from scratch f
 | 04 | [📰 Blog Post Card](./CSS/04-Blog-Post-Card) | Background layering, image fitting (`width: 100%`), `border-bottom` accents, `inline-block` button styling | 🌟 Custom |
 | 05 | [🎟️ Event Flyer Page](./CSS/05-Event-Flyer-Page) | Viewport units (`vw`), dynamic `calc(100vh - 100px)` height calculations, section/hr percentage widths | 🌟 Custom |
 | 06 | [🎂 Greeting Card](./CSS/06-Greeting-Card) | Anchor `:target` section toggling, `::before`/`::after` pseudo-elements, dynamic `scale()` & `skewX()` CSS transforms | 📖 Curriculum |
+| 07 | [📋 Parent Teacher Form](./CSS/07-Parent-Teacher-Conference-Form) | Form controls, `:not()` pseudo-class selectors, custom CSS radio buttons via `appearance: none` & `::before` | 📖 Curriculum |
 
 ---
 
