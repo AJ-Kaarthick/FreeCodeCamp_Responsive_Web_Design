@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Software Engineering Job Application</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Developer Career Application</h1>
+        <form>
+            <label for="name">Full Name:</label>
+            <input type="text" id="name" required placeholder="E.g., Alex Mercer">
+
+            <label for="email">Email Address:</label>
+            <input type="email" id="email" required placeholder="alex@example.com">
+
+        
+            <label for="position">Target Position:</label>
+            <select id="position" required>
+                <option value="">-- Select a Position --</option>
+                <option value="cxx-developer">C++ Systems Engineer</option>
+                <option value="fullstack-dev">Full Stack Web Developer</option>
+                <option value="ai-researcher">AI &amp; ML Specialist</option>
+                <option value="dsa-instructor">Algorithms Architect</option>
+            </select>
+
+            <fieldset class="radio-group">
+                <legend>Work Availability:</legend>
+
+                <input type="radio" id="full-time" name="availability" value="full-time" required>
+                <label for="full-time">Full-Time</label>
+
+                <input type="radio" id="part-time" name="availability" value="part-time">
+                <label for="part-time">Part-Time</label>
+
+                <input type="radio" id="contract" name="availability" value="contract">
+                <label for="contract">Contract</label>
+
+                <input type="radio" id="internship" name="availability" value="internship">
+                <label for="internship">Internship</label>
+            </fieldset>
+
+            <label for="message">Cover Note &amp; Core Strengths:</label>
+            <textarea id="message" rows="5" required placeholder="Highlight key C++ projects, OOP experience, or system architecture skills..."></textarea>
+
+            <button type="submit">Submit Application</button>
+        </form>
+    </div>
+</body>
+</html>

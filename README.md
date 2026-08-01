@@ -27,7 +27,7 @@ These are custom, objective-driven projects I built independently from scratch f
 *   [📝 03: To-Do List](./CSS/03-Stylized-Todo-List) - Interactive task list demonstrating complete anchor pseudo-class cascading (`LVHA`), focus outlines, and nested sub-item list architecture.
 *   [📰 04: Blog Post Card](./CSS/04-Blog-Post-Card) - Article preview card component featuring border accents, `inline-block` action buttons, and hover state transitions.
 *   [🎟️ 05: Event Flyer Page](./CSS/05-Event-Flyer-Page) - Event promotional flyer layout showcasing viewport unit scaling (`vw`), CSS `calc()` layout math, and relative section percentage constraints.
-
+*   [💼 08: Job Application Form](./CSS/08-Job-Application-Form) - Interactive employment application form showcasing HTML5 validation states (`:valid`/`:invalid`), `:first-of-type` selectors, and custom radio button `:checked` states.
 
 ---
 
@@ -76,6 +76,8 @@ These are custom, objective-driven projects I built independently from scratch f
 | 05 | [🎟️ Event Flyer Page](./CSS/05-Event-Flyer-Page) | Viewport units (`vw`), dynamic `calc(100vh - 100px)` height calculations, section/hr percentage widths | 🌟 Custom |
 | 06 | [🎂 Greeting Card](./CSS/06-Greeting-Card) | Anchor `:target` section toggling, `::before`/`::after` pseudo-elements, dynamic `scale()` & `skewX()` CSS transforms | 📖 Curriculum |
 | 07 | [📋 Parent Teacher Form](./CSS/07-Parent-Teacher-Conference-Form) | Form controls, `:not()` pseudo-class selectors, custom CSS radio buttons via `appearance: none` & `::before` | 📖 Curriculum |
+| 08 | [💼 Job Application Form](./CSS/08-Job-Application-Form) | `:valid`/`:invalid` validation states, `:focus` outline management, `:first-of-type` structural selector, radio `:checked` states | 🌟 Custom |
+
 
 ---
 

@@ -1,0 +1,127 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: lavender;
+  color: darkslategray;
+  padding: 40px 20px;
+}
+
+.container {
+  background-color: white;
+  width: 90%;
+  max-width: 550px;
+  margin: 0 auto;
+  padding: 30px;
+  border-radius: 12px;
+  border: 2px solid lightgray;
+}
+
+h1 {
+  text-align: center;
+  color: midnightblue;
+  font-size: 24px;
+  margin-top: 0;
+  margin-bottom: 25px;
+}
+
+label {
+  display: block;
+  font-weight: bold;
+  margin-top: 15px;
+  margin-bottom: 6px;
+  font-size: 14px;
+}
+
+input,
+select,
+textarea {
+  width: 100%;
+  padding: 10px;
+  border: 2px solid lightgray;
+  border-radius: 6px;
+  box-sizing: border-box;
+  font-family: inherit;
+  font-size: 14px;
+}
+
+input:first-of-type {
+  border-radius: 16px;
+}
+
+input:focus, textarea:focus {
+  border-color: dodgerblue;
+  outline: none;
+}
+
+input:invalid, select:invalid, textarea:invalid {
+  border-color: red;
+}
+
+\input:valid, select:valid, textarea:valid {
+  border-color: green;
+}
+
+
+.radio-group {
+  border: 1px solid lightgray;
+  border-radius: 8px;
+  padding: 15px;
+  margin-top: 20px;
+  margin-bottom: 15px;
+}
+
+.radio-group legend {
+  font-weight: bold;
+  color: midnightblue;
+  padding: 0 5px;
+}
+
+.radio-group input[type="radio"] {
+  width: auto;
+  margin-right: 6px;
+  margin-top: 10px;
+  cursor: pointer;
+  appearance: none;
+  width: 16px;
+  height: 16px;
+  border: 2px solid gray;
+  border-radius: 50%;
+  vertical-align: middle;
+}
+
+.radio-group label {
+  display: inline-block;
+  font-weight: normal;
+  margin-right: 15px;
+  margin-top: 0;
+  cursor: pointer;
+}
+
+
+.radio-group input[type="radio"]:checked {
+  border-color: darkcyan;
+  background-color: darkcyan;
+  box-shadow: 0 0 5px darkcyan;
+}
+
+.radio-group input[type="radio"]:checked + label {
+  color: darkcyan;
+  font-weight: bold;
+}
+
+button[type="submit"] {
+  width: 100%;
+  background-color: darkcyan;
+  color: white;
+  border: none;
+  padding: 12px;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  margin-top: 20px;
+  transition: background-color 0.2s ease;
+}
+
+button:hover {
+  background-color: midnightblue;
+}
