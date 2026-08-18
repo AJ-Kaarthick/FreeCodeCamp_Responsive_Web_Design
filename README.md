@@ -28,6 +28,8 @@ These are custom, objective-driven projects I built independently from scratch f
 *   [📰 04: Blog Post Card](./CSS/04-Blog-Post-Card) - Article preview card component featuring border accents, `inline-block` action buttons, and hover state transitions.
 *   [🎟️ 05: Event Flyer Page](./CSS/05-Event-Flyer-Page) - Event promotional flyer layout showcasing viewport unit scaling (`vw`), CSS `calc()` layout math, and relative section percentage constraints.
 *   [💼 08: Job Application Form](./CSS/08-Job-Application-Form) - Interactive employment application form showcasing HTML5 validation states (`:valid`/`:invalid`), `:first-of-type` selectors, and custom radio button `:checked` states.
+*   [🎨 10: Colored Boxes](./CSS/10-Colored-Boxes) - Visual color system palette demonstrating Hexadecimal, RGB, Named Keywords, HSL, and RGBA syntax implementations.
+
 
 ---
 
@@ -78,6 +80,7 @@ These are custom, objective-driven projects I built independently from scratch f
 | 07 | [📋 Parent Teacher Form](./CSS/07-Parent-Teacher-Conference-Form) | Form controls, `:not()` pseudo-class selectors, custom CSS radio buttons via `appearance: none` & `::before` | 📖 Curriculum |
 | 08 | [💼 Job Application Form](./CSS/08-Job-Application-Form) | `:valid`/`:invalid` validation states, `:focus` outline management, `:first-of-type` structural selector, radio `:checked` states | 🌟 Custom |
 | 09 | [🖍️ Colored Markers](./CSS/09-Colored-Markers) | Linear gradients (`rgb`, `hex`, `hsl`), alpha transparency (`rgba`, `hsla`), box shadow glow effects | 📖 Curriculum |
+| 10 | [🎨 Colored Boxes](./CSS/10-Colored-Boxes) | Color syntax formats (Hexadecimal, `rgb()`, Keyword, `hsl()`, `rgba()`), fixed dimensions, flex layout | 🌟 Custom |
 
 ---
 
