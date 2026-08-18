@@ -77,7 +77,7 @@ These are custom, objective-driven projects I built independently from scratch f
 | 06 | [🎂 Greeting Card](./CSS/06-Greeting-Card) | Anchor `:target` section toggling, `::before`/`::after` pseudo-elements, dynamic `scale()` & `skewX()` CSS transforms | 📖 Curriculum |
 | 07 | [📋 Parent Teacher Form](./CSS/07-Parent-Teacher-Conference-Form) | Form controls, `:not()` pseudo-class selectors, custom CSS radio buttons via `appearance: none` & `::before` | 📖 Curriculum |
 | 08 | [💼 Job Application Form](./CSS/08-Job-Application-Form) | `:valid`/`:invalid` validation states, `:focus` outline management, `:first-of-type` structural selector, radio `:checked` states | 🌟 Custom |
-
+| 09 | [🖍️ Colored Markers](./CSS/09-Colored-Markers) | Linear gradients (`rgb`, `hex`, `hsl`), alpha transparency (`rgba`, `hsla`), box shadow glow effects | 📖 Curriculum |
 
 ---
 
