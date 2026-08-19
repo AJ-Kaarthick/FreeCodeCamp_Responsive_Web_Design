@@ -29,7 +29,7 @@ These are custom, objective-driven projects I built independently from scratch f
 *   [🎟️ 05: Event Flyer Page](./CSS/05-Event-Flyer-Page) - Event promotional flyer layout showcasing viewport unit scaling (`vw`), CSS `calc()` layout math, and relative section percentage constraints.
 *   [💼 08: Job Application Form](./CSS/08-Job-Application-Form) - Interactive employment application form showcasing HTML5 validation states (`:valid`/`:invalid`), `:first-of-type` selectors, and custom radio button `:checked` states.
 *   [🎨 10: Colored Boxes](./CSS/10-Colored-Boxes) - Visual color system palette demonstrating Hexadecimal, RGB, Named Keywords, HSL, and RGBA syntax implementations.
-
+*   [📬 12: Contact Form](./HTML-CSS/12-Contact-Form) - Centered typography layout with 45-degree linear gradients, accessible label bindings, HTML5 input validation, and hover state transitions.
 
 ---
 
@@ -82,6 +82,7 @@ These are custom, objective-driven projects I built independently from scratch f
 | 09 | [🖍️ Colored Markers](./CSS/09-Colored-Markers) | Linear gradients (`rgb`, `hex`, `hsl`), alpha transparency (`rgba`, `hsla`), box shadow glow effects | 📖 Curriculum |
 | 10 | [🎨 Colored Boxes](./CSS/10-Colored-Boxes) | Color syntax formats (Hexadecimal, `rgb()`, Keyword, `hsl()`, `rgba()`), fixed dimensions, flex layout | 🌟 Custom |
 | 11 | [📋 Registration Form](./HTML-CSS/11-Registration-Form) | HTML5 form validation, fieldsets, input constraints, dark-themed form controls | 📖 Curriculum |
+| 12 | [📬 Contact Form](./HTML-CSS/12-Contact-Form) | Centered text alignment, 45-degree linear gradients, accessible labels, input validation (`text`, `email`, `textarea`), hover states | 🌟 Custom |
 
 ---
 
