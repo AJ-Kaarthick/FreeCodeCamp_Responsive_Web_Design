@@ -1,4 +1,4 @@
-# 🖍️ Project: Colored Markers
+# 🖍️ Project 09: Colored Markers
 
 A CSS color model and gradient rendering project exploring linear gradients across RGB, Hexadecimal, and HSL color spaces, box shadows, semi-transparent alpha channels, and inline-block layout alignments.
 

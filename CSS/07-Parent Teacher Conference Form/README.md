@@ -1,4 +1,4 @@
-# 📋 Project: Parent Teacher Conference Form
+# 📋 Project 07: Parent Teacher Conference Form
 
 A semantic HTML5 form styling project focusing on fieldset grouping, `:not()` functional pseudo-class selection, custom-styled radio buttons with pseudo-elements (`::before`), and responsive container bounds.
 

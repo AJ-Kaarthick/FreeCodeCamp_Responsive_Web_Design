@@ -81,6 +81,7 @@ These are custom, objective-driven projects I built independently from scratch f
 | 08 | [💼 Job Application Form](./CSS/08-Job-Application-Form) | `:valid`/`:invalid` validation states, `:focus` outline management, `:first-of-type` structural selector, radio `:checked` states | 🌟 Custom |
 | 09 | [🖍️ Colored Markers](./CSS/09-Colored-Markers) | Linear gradients (`rgb`, `hex`, `hsl`), alpha transparency (`rgba`, `hsla`), box shadow glow effects | 📖 Curriculum |
 | 10 | [🎨 Colored Boxes](./CSS/10-Colored-Boxes) | Color syntax formats (Hexadecimal, `rgb()`, Keyword, `hsl()`, `rgba()`), fixed dimensions, flex layout | 🌟 Custom |
+| 11 | [📋 Registration Form](./HTML-CSS/11-Registration-Form) | HTML5 form validation, fieldsets, input constraints, dark-themed form controls | 📖 Curriculum |
 
 ---
 

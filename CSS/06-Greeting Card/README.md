@@ -1,4 +1,4 @@
-# 🎂 Project: Greeting Card
+# 🎂 Project 06: Greeting Card
 
 A CSS interaction and state management project demonstrating target-based section toggling (`:target`), pseudo-elements (`::before`, `::after`), flexbox positioning, transitions, and pseudo-class state cascades (`:hover`, `:active`, `:focus`, `:visited`).
 
