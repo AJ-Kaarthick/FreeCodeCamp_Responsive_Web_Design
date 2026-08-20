@@ -30,6 +30,7 @@ These are custom, objective-driven projects I built independently from scratch f
 *   [💼 08: Job Application Form](./CSS/08-Job-Application-Form) - Interactive employment application form showcasing HTML5 validation states (`:valid`/`:invalid`), `:first-of-type` selectors, and custom radio button `:checked` states.
 *   [🎨 10: Colored Boxes](./CSS/10-Colored-Boxes) - Visual color system palette demonstrating Hexadecimal, RGB, Named Keywords, HSL, and RGBA syntax implementations.
 *   [📬 12: Contact Form](./HTML-CSS/12-Contact-Form) - Centered typography layout with 45-degree linear gradients, accessible label bindings, HTML5 input validation, and hover state transitions.
+*   [⚡ 14: Feature Selection Page](./HTML-CSS/14-Feature-Selection-Page) - Interactive emerald-themed feature selector with custom checkboxes (`appearance: none`), `::after` checkmark pseudo-elements, and smooth transitions.
 
 ---
 
@@ -84,6 +85,7 @@ These are custom, objective-driven projects I built independently from scratch f
 | 11 | [📋 Registration Form](./HTML-CSS/11-Registration-Form) | HTML5 form validation, fieldsets, input constraints, dark-themed form controls | 📖 Curriculum |
 | 12 | [📬 Contact Form](./HTML-CSS/12-Contact-Form) | Centered text alignment, 45-degree linear gradients, accessible labels, input validation (`text`, `email`, `textarea`), hover states | 🌟 Custom |
 | 13 | [🎮 Game Settings Panel](./HTML-CSS/13-Game-Settings-Panel) | Custom checkboxes (`appearance: none`), `:checked` state, `::after` pseudo-element checkmarks | 📖 Curriculum |
+| 14 | [⚡ Feature Selection Page](./HTML-CSS/14-Feature-Selection-Page) | Custom checkboxes (`appearance: none`), `::after` checkmark pseudo-elements, `:checked` state, left-aligned card layouts | 🚀 Independent |
 
 ---
 
