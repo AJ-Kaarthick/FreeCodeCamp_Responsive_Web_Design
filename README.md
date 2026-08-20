@@ -83,6 +83,7 @@ These are custom, objective-driven projects I built independently from scratch f
 | 10 | [🎨 Colored Boxes](./CSS/10-Colored-Boxes) | Color syntax formats (Hexadecimal, `rgb()`, Keyword, `hsl()`, `rgba()`), fixed dimensions, flex layout | 🌟 Custom |
 | 11 | [📋 Registration Form](./HTML-CSS/11-Registration-Form) | HTML5 form validation, fieldsets, input constraints, dark-themed form controls | 📖 Curriculum |
 | 12 | [📬 Contact Form](./HTML-CSS/12-Contact-Form) | Centered text alignment, 45-degree linear gradients, accessible labels, input validation (`text`, `email`, `textarea`), hover states | 🌟 Custom |
+| 13 | [🎮 Game Settings Panel](./HTML-CSS/13-Game-Settings-Panel) | Custom checkboxes (`appearance: none`), `:checked` state, `::after` pseudo-element checkmarks | 📖 Curriculum |
 
 ---
 
