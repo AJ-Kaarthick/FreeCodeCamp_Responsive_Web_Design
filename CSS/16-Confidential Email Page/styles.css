@@ -1,0 +1,54 @@
+body {
+  background-color: #0f172a;
+  color: #e2e8f0;
+  font-family: 'Courier New', Courier, monospace;
+  margin: 0;
+  padding: 20px;
+}
+
+#email {
+  padding: 50px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+  border: 2px solid #334155;
+  box-sizing: border-box;
+  background-color: #1e293b;
+  border-radius: 8px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+}
+
+#confidential,
+#top-secret {
+  display: inline-block;
+  padding: 8px 12px;
+  margin-left: 15px;
+  border: 2px solid #ef4444;
+  color: #ef4444;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+#confidential {
+  transform: rotate(-5deg);
+}
+
+#top-secret {
+  transform: rotate(4deg);
+  border-color: #f59e0b;
+  color: #f59e0b;
+}
+
+p {
+  line-height: 1.6;
+  margin-top: 25px;
+}
+
+.blurred {
+  filter: blur(3px);
+  background-color: #334155;
+  color: #94a3b8;
+  padding: 2px 4px;
+  border-radius: 4px;
+}

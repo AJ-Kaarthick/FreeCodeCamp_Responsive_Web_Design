@@ -31,6 +31,7 @@ These are custom, objective-driven projects I built independently from scratch f
 *   [🎨 10: Colored Boxes](./CSS/10-Colored-Boxes) - Visual color system palette demonstrating Hexadecimal, RGB, Named Keywords, HSL, and RGBA syntax implementations.
 *   [📬 12: Contact Form](./HTML-CSS/12-Contact-Form) - Centered typography layout with 45-degree linear gradients, accessible label bindings, HTML5 input validation, and hover state transitions.
 *   [⚡ 14: Feature Selection Page](./HTML-CSS/14-Feature-Selection-Page) - Interactive emerald-themed feature selector with custom checkboxes (`appearance: none`), `::after` checkmark pseudo-elements, and smooth transitions.
+*   [🔒 16: Confidential Email Page](./HTML-CSS/16-Confidential-Email-Page) - Classified email UI featuring redacted text blurs (`filter: blur()`), rotated stamp badges (`transform: rotate()`), and strict box-sizing calculations.
 
 ---
 
@@ -87,6 +88,7 @@ These are custom, objective-driven projects I built independently from scratch f
 | 13 | [🎮 Game Settings Panel](./HTML-CSS/13-Game-Settings-Panel) | Custom checkboxes (`appearance: none`), `:checked` state, `::after` pseudo-element checkmarks | 📖 Curriculum |
 | 14 | [⚡ Feature Selection Page](./HTML-CSS/14-Feature-Selection-Page) | Custom checkboxes (`appearance: none`), `::after` checkmark pseudo-elements, `:checked` state, left-aligned card layouts | 🚀 Independent |
 | 15 | [🎨 Rothko Painting](./HTML-CSS/15-Rothko-Painting) | CSS art, `filter: blur()`, asymmetrical `border-radius`, `transform: rotate()`, `box-shadow` spread | 📖 Curriculum |
+| 16 | [🔒 Confidential Email Page](./HTML-CSS/16-Confidential-Email-Page) | Redacted text blurs (`filter: blur()`), rotated stamps (`transform: rotate()`), strict box-sizing calculations | 🚀 Independent |
 
 ---
 
