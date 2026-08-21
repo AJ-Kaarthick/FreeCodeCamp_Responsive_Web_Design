@@ -89,6 +89,7 @@ These are custom, objective-driven projects I built independently from scratch f
 | 14 | [⚡ Feature Selection Page](./HTML-CSS/14-Feature-Selection-Page) | Custom checkboxes (`appearance: none`), `::after` checkmark pseudo-elements, `:checked` state, left-aligned card layouts | 🚀 Independent |
 | 15 | [🎨 Rothko Painting](./HTML-CSS/15-Rothko-Painting) | CSS art, `filter: blur()`, asymmetrical `border-radius`, `transform: rotate()`, `box-shadow` spread | 📖 Curriculum |
 | 16 | [🔒 Confidential Email Page](./HTML-CSS/16-Confidential-Email-Page) | Redacted text blurs (`filter: blur()`), rotated stamps (`transform: rotate()`), strict box-sizing calculations | 🚀 Independent |
+| 17 | [🖼️ Photo Gallery](./HTML-CSS/17-Photo-Gallery) | CSS Flexbox (`flex-wrap`, `justify-content`), `object-fit: cover`, responsive image grids | 📖 Curriculum |
 
 ---
 
