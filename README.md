@@ -32,6 +32,7 @@ These are custom, objective-driven projects I built independently from scratch f
 *   [📬 12: Contact Form](./HTML-CSS/12-Contact-Form) - Centered typography layout with 45-degree linear gradients, accessible label bindings, HTML5 input validation, and hover state transitions.
 *   [⚡ 14: Feature Selection Page](./HTML-CSS/14-Feature-Selection-Page) - Interactive emerald-themed feature selector with custom checkboxes (`appearance: none`), `::after` checkmark pseudo-elements, and smooth transitions.
 *   [🔒 16: Confidential Email Page](./HTML-CSS/16-Confidential-Email-Page) - Classified email UI featuring redacted text blurs (`filter: blur()`), rotated stamp badges (`transform: rotate()`), and strict box-sizing calculations.
+*   [💳 19: Pricing Plans Layout Page](./HTML-CSS/19-Pricing-Plans-Layout) - Professional pricing card layout leveraging Flexbox ordering (`order`), dynamic card growth (`flex-grow: 2`), and structured feature lists.
 
 ---
 
@@ -91,6 +92,7 @@ These are custom, objective-driven projects I built independently from scratch f
 | 16 | [🔒 Confidential Email Page](./HTML-CSS/16-Confidential-Email-Page) | Redacted text blurs (`filter: blur()`), rotated stamps (`transform: rotate()`), strict box-sizing calculations | 🚀 Independent |
 | 17 | [🖼️ Photo Gallery](./HTML-CSS/17-Photo-Gallery) | CSS Flexbox (`flex-wrap`, `justify-content`), `object-fit: cover`, responsive image grids | 📖 Curriculum |
 | 18 | [🎨 Colored Boxes Layout](./HTML-CSS/18-Colored-Boxes-Layout) | Flexbox ordering (`order`), flex item sizing (`flex-grow`, `flex-shrink`), `align-content` distribution | 📖 Curriculum |
+| 19 | [💳 Pricing Plans Layout Page](./HTML-CSS/19-Pricing-Plans-Layout) | Flexbox ordering (`order`), dynamic card growth (`flex-grow: 2`), `flex-direction: column`, `space-between` | 🚀 Independent |
 
 ---
 
