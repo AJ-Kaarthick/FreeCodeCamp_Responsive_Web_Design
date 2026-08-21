@@ -86,6 +86,7 @@ These are custom, objective-driven projects I built independently from scratch f
 | 12 | [📬 Contact Form](./HTML-CSS/12-Contact-Form) | Centered text alignment, 45-degree linear gradients, accessible labels, input validation (`text`, `email`, `textarea`), hover states | 🌟 Custom |
 | 13 | [🎮 Game Settings Panel](./HTML-CSS/13-Game-Settings-Panel) | Custom checkboxes (`appearance: none`), `:checked` state, `::after` pseudo-element checkmarks | 📖 Curriculum |
 | 14 | [⚡ Feature Selection Page](./HTML-CSS/14-Feature-Selection-Page) | Custom checkboxes (`appearance: none`), `::after` checkmark pseudo-elements, `:checked` state, left-aligned card layouts | 🚀 Independent |
+| 15 | [🎨 Rothko Painting](./HTML-CSS/15-Rothko-Painting) | CSS art, `filter: blur()`, asymmetrical `border-radius`, `transform: rotate()`, `box-shadow` spread | 📖 Curriculum |
 
 ---
 
