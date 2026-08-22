@@ -6,6 +6,20 @@ Welcome to my central hub tracking my learning journey through the freeCodeCamp 
 
 ---
 
+
+## 🏆 Official Certification Projects
+
+1. **[Tribute Page](./HTML-CSS/05-Tribute-Page)** - HTML/CSS Certification Project 1
+2. **[Technical Documentation Page](./HTML-CSS/10-Technical-Documentation)** - HTML/CSS Certification Project 2
+3. **[Product Landing Page](./HTML-CSS/12-Product-Landing-Page)** - HTML/CSS Certification Project 3
+4. **[Survey Form](./HTML-CSS/13-Survey-Form)** - HTML/CSS Certification Project 4
+5. **[Personal Portfolio](./HTML-CSS/15-Personal-Portfolio)** - HTML/CSS Certification Project 5
+6. **[Playing Cards Layout Page](./HTML-CSS/20-Playing-Cards)** - CSS Flexbox Certification Project
+
+
+---
+
+
 ## 🏆 Featured Independent Projects
 These are custom, objective-driven projects I built independently from scratch following design briefs and technical constraints:
 
@@ -33,6 +47,7 @@ These are custom, objective-driven projects I built independently from scratch f
 *   [⚡ 14: Feature Selection Page](./HTML-CSS/14-Feature-Selection-Page) - Interactive emerald-themed feature selector with custom checkboxes (`appearance: none`), `::after` checkmark pseudo-elements, and smooth transitions.
 *   [🔒 16: Confidential Email Page](./HTML-CSS/16-Confidential-Email-Page) - Classified email UI featuring redacted text blurs (`filter: blur()`), rotated stamp badges (`transform: rotate()`), and strict box-sizing calculations.
 *   [💳 19: Pricing Plans Layout Page](./HTML-CSS/19-Pricing-Plans-Layout) - Professional pricing card layout leveraging Flexbox ordering (`order`), dynamic card growth (`flex-grow: 2`), and structured feature lists.
+*   [♠️ 20: Playing Cards Layout Page](./HTML-CSS/20-Playing-Cards) - Authentic playing card layout utilizing Flexbox alignment properties (`align-self`), column layouts, and suit styling.
 
 ---
 
@@ -93,6 +108,7 @@ These are custom, objective-driven projects I built independently from scratch f
 | 17 | [🖼️ Photo Gallery](./HTML-CSS/17-Photo-Gallery) | CSS Flexbox (`flex-wrap`, `justify-content`), `object-fit: cover`, responsive image grids | 📖 Curriculum |
 | 18 | [🎨 Colored Boxes Layout](./HTML-CSS/18-Colored-Boxes-Layout) | Flexbox ordering (`order`), flex item sizing (`flex-grow`, `flex-shrink`), `align-content` distribution | 📖 Curriculum |
 | 19 | [💳 Pricing Plans Layout Page](./HTML-CSS/19-Pricing-Plans-Layout) | Flexbox ordering (`order`), dynamic card growth (`flex-grow: 2`), `flex-direction: column`, `space-between` | 🚀 Independent |
+| 20 | [♠️ Playing Cards Layout Page](./HTML-CSS/20-Playing-Cards) | Flexbox `align-self`, `flex-direction: column`, `flex-wrap`, `gap: 20px` | 🚀 Independent |
 
 ---
 
