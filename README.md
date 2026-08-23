@@ -48,7 +48,7 @@ These are custom, objective-driven projects I built independently from scratch f
 *   [🔒 16: Confidential Email Page](./HTML-CSS/16-Confidential-Email-Page) - Classified email UI featuring redacted text blurs (`filter: blur()`), rotated stamp badges (`transform: rotate()`), and strict box-sizing calculations.
 *   [💳 19: Pricing Plans Layout Page](./HTML-CSS/19-Pricing-Plans-Layout) - Professional pricing card layout leveraging Flexbox ordering (`order`), dynamic card growth (`flex-grow: 2`), and structured feature lists.
 *   [♠️ 20: Playing Cards Layout Page](./HTML-CSS/20-Playing-Cards) - Authentic playing card layout utilizing Flexbox alignment properties (`align-self`), column layouts, and suit styling.
-
+*   [📰 22: Newspaper Article](./HTML-CSS/22-Newspaper-Article) - Traditional print editorial layout demonstrating relative unit scaling (`rem`/`em`), drop-cap styling (`::first-letter`), and text indentation rules.
 ---
 
 ## 📊 Learning Roadmap & Progress
@@ -110,7 +110,7 @@ These are custom, objective-driven projects I built independently from scratch f
 | 19 | [💳 Pricing Plans Layout Page](./HTML-CSS/19-Pricing-Plans-Layout) | Flexbox ordering (`order`), dynamic card growth (`flex-grow: 2`), `flex-direction: column`, `space-between` | 🚀 Independent |
 | 20 | [♠️ Playing Cards Layout Page](./HTML-CSS/20-Playing-Cards) | Flexbox `align-self`, `flex-direction: column`, `flex-wrap`, `gap: 20px` | 🚀 Independent |
 | 21 | [🥗 Nutrition Label](./HTML-CSS/21-Nutrition-Label) | Typography hierarchy, `:not()` pseudo-class selector, custom dividers, `text-indent` | 📖 Curriculum |
-
+| 22 | [📰 Newspaper Article](./HTML-CSS/22-Newspaper-Article) | Relative font units (`rem`/`em`), `::first-letter` drop-caps, `text-indent`, `text-transform` | 🚀 Independent |
 ---
 
 ## 💻 How to Run and View the Projects Locally
