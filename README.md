@@ -109,6 +109,7 @@ These are custom, objective-driven projects I built independently from scratch f
 | 18 | [🎨 Colored Boxes Layout](./HTML-CSS/18-Colored-Boxes-Layout) | Flexbox ordering (`order`), flex item sizing (`flex-grow`, `flex-shrink`), `align-content` distribution | 📖 Curriculum |
 | 19 | [💳 Pricing Plans Layout Page](./HTML-CSS/19-Pricing-Plans-Layout) | Flexbox ordering (`order`), dynamic card growth (`flex-grow: 2`), `flex-direction: column`, `space-between` | 🚀 Independent |
 | 20 | [♠️ Playing Cards Layout Page](./HTML-CSS/20-Playing-Cards) | Flexbox `align-self`, `flex-direction: column`, `flex-wrap`, `gap: 20px` | 🚀 Independent |
+| 21 | [🥗 Nutrition Label](./HTML-CSS/21-Nutrition-Label) | Typography hierarchy, `:not()` pseudo-class selector, custom dividers, `text-indent` | 📖 Curriculum |
 
 ---
 
