@@ -111,6 +111,9 @@ These are custom, objective-driven projects I built independently from scratch f
 | 20 | [♠️ Playing Cards Layout Page](./HTML-CSS/20-Playing-Cards) | Flexbox `align-self`, `flex-direction: column`, `flex-wrap`, `gap: 20px` | 🚀 Independent |
 | 21 | [🥗 Nutrition Label](./HTML-CSS/21-Nutrition-Label) | Typography hierarchy, `:not()` pseudo-class selector, custom dividers, `text-indent` | 📖 Curriculum |
 | 22 | [📰 Newspaper Article](./HTML-CSS/22-Newspaper-Article) | Relative font units (`rem`/`em`), `::first-letter` drop-caps, `text-indent`, `text-transform` | 🚀 Independent |
+| 23 | [♿ Accessibility Quiz](./HTML-CSS/23-Accessibility-Quiz) | ARIA landmarks, `.sr-only` class, `min()`/`max()` sizing functions, `prefers-reduced-motion` | 📖 Curriculum |
+
+
 ---
 
 ## 💻 How to Run and View the Projects Locally
