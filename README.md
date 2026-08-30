@@ -115,6 +115,7 @@ These are custom, objective-driven projects I built independently from scratch f
 | 22 | [📰 Newspaper Article](./HTML-CSS/22-Newspaper-Article) | Relative font units (`rem`/`em`), `::first-letter` drop-caps, `text-indent`, `text-transform` | 🚀 Independent |
 | 23 | [♿ Accessibility Quiz](./HTML-CSS/23-Accessibility-Quiz) | ARIA landmarks, `.sr-only` class, `min()`/`max()` sizing functions, `prefers-reduced-motion` | 📖 Curriculum |
 | 24 | [🎾 Tribute Page](./HTML-CSS/24-Tribute-Page) | Fluid media scaling (`max-width: 100%`), block centering, `<figure>`/`<figcaption>` semantics | 🚀 Independent |
+| 25 | [🐱 Cat Painting](./HTML-CSS/25-Cat-Painting) | CSS border shape hacks, `transform: rotate()`, absolute positioning, `z-index` layering | 📖 Curriculum |
 
 ---
 
