@@ -50,6 +50,7 @@ These are custom, objective-driven projects I built independently from scratch f
 *   [♠️ 20: Playing Cards Layout Page](./HTML-CSS/20-Playing-Cards) - Authentic playing card layout utilizing Flexbox alignment properties (`align-self`), column layouts, and suit styling.
 *   [📰 22: Newspaper Article](./HTML-CSS/22-Newspaper-Article) - Traditional print editorial layout demonstrating relative unit scaling (`rem`/`em`), drop-cap styling (`::first-letter`), and text indentation rules.
 *   [🎾 24: Tribute Page - Roger Federer](./HTML-CSS/24-Tribute-Page) - Responsive editorial tribute layout with fluid media scaling (`max-width: 100%`), semantic figure captions, and block-level centering.
+*   [🏠 26: House Painting](./HTML-CSS/26-House-Painting) - Architectural composition using `position: relative` coordinate framing, absolute child positioning, linear gradient environment styling, and `z-index` stacking context.
 
 ---
 
@@ -116,6 +117,7 @@ These are custom, objective-driven projects I built independently from scratch f
 | 23 | [♿ Accessibility Quiz](./HTML-CSS/23-Accessibility-Quiz) | ARIA landmarks, `.sr-only` class, `min()`/`max()` sizing functions, `prefers-reduced-motion` | 📖 Curriculum |
 | 24 | [🎾 Tribute Page](./HTML-CSS/24-Tribute-Page) | Fluid media scaling (`max-width: 100%`), block centering, `<figure>`/`<figcaption>` semantics | 🚀 Independent |
 | 25 | [🐱 Cat Painting](./HTML-CSS/25-Cat-Painting) | CSS border shape hacks, `transform: rotate()`, absolute positioning, `z-index` layering | 📖 Curriculum |
+| 26 | [🏠 House Painting](./HTML-CSS/26-House-Painting) | Relative coordinate framing, absolute child positioning, `linear-gradient`, `z-index` layering | 🚀 Independent |
 
 ---
 
