@@ -118,6 +118,8 @@ These are custom, objective-driven projects I built independently from scratch f
 | 24 | [🎾 Tribute Page](./HTML-CSS/24-Tribute-Page) | Fluid media scaling (`max-width: 100%`), block centering, `<figure>`/`<figcaption>` semantics | 🚀 Independent |
 | 25 | [🐱 Cat Painting](./HTML-CSS/25-Cat-Painting) | CSS border shape hacks, `transform: rotate()`, absolute positioning, `z-index` layering | 📖 Curriculum |
 | 26 | [🏠 House Painting](./HTML-CSS/26-House-Painting) | Relative coordinate framing, absolute child positioning, `linear-gradient`, `z-index` layering | 🚀 Independent |
+| 27 | [📊 Balance Sheet](./HTML-CSS/27-Balance-Sheet) | Accessible `.sr-only` clipping, `position: sticky` headers, HTML `<table>` structure, double-border formatting | 📖 Curriculum |
+
 
 ---
 
