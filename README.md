@@ -14,8 +14,8 @@ Welcome to my central hub tracking my learning journey through the freeCodeCamp 
 3. **[Product Landing Page](./HTML-CSS/12-Product-Landing-Page)** - HTML/CSS Certification Project 3
 4. **[Survey Form](./HTML-CSS/13-Survey-Form)** - HTML/CSS Certification Project 4
 5. **[Personal Portfolio](./HTML-CSS/15-Personal-Portfolio)** - HTML/CSS Certification Project 5
-6. **[Playing Cards Layout Page](./HTML-CSS/20-Playing-Cards)** - CSS Flexbox Certification Project
-
+6. **[Playing Cards Layout Page](./HTML-CSS/20-Playing-Cards)** - CSS Flexbox Certification Project 6
+7. **[Book Inventory App](./28-Book-Inventory)** - HTML/CSS Certification Project 7
 
 ---
 
@@ -51,6 +51,7 @@ These are custom, objective-driven projects I built independently from scratch f
 *   [📰 22: Newspaper Article](./HTML-CSS/22-Newspaper-Article) - Traditional print editorial layout demonstrating relative unit scaling (`rem`/`em`), drop-cap styling (`::first-letter`), and text indentation rules.
 *   [🎾 24: Tribute Page - Roger Federer](./HTML-CSS/24-Tribute-Page) - Responsive editorial tribute layout with fluid media scaling (`max-width: 100%`), semantic figure captions, and block-level centering.
 *   [🏠 26: House Painting](./HTML-CSS/26-House-Painting) - Architectural composition using `position: relative` coordinate framing, absolute child positioning, linear gradient environment styling, and `z-index` stacking context.
+* [📚 28: Book Inventory](./HTML-CSS/28-Book-Inventory) - Tabular data app built with advanced CSS attribute selectors (`~=`, `^=`), custom rating indicators, and dark slate linear gradients.
 
 ---
 
@@ -119,7 +120,7 @@ These are custom, objective-driven projects I built independently from scratch f
 | 25 | [🐱 Cat Painting](./HTML-CSS/25-Cat-Painting) | CSS border shape hacks, `transform: rotate()`, absolute positioning, `z-index` layering | 📖 Curriculum |
 | 26 | [🏠 House Painting](./HTML-CSS/26-House-Painting) | Relative coordinate framing, absolute child positioning, `linear-gradient`, `z-index` layering | 🚀 Independent |
 | 27 | [📊 Balance Sheet](./HTML-CSS/27-Balance-Sheet) | Accessible `.sr-only` clipping, `position: sticky` headers, HTML `<table>` structure, double-border formatting | 📖 Curriculum |
-
+| 28 | [📚 Book Inventory](./HTML-CSS/28-Book-Inventory) | Advanced CSS attribute selectors (`~=`, `^=`), custom dot rating indicators, dynamic table gradients | 🏆 Certification |
 
 ---
 
