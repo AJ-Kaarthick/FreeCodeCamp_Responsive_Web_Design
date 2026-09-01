@@ -15,7 +15,7 @@ Welcome to my central hub tracking my learning journey through the freeCodeCamp 
 4. **[Survey Form](./HTML-CSS/13-Survey-Form)** - HTML/CSS Certification Project 4
 5. **[Personal Portfolio](./HTML-CSS/15-Personal-Portfolio)** - HTML/CSS Certification Project 5
 6. **[Playing Cards Layout Page](./HTML-CSS/20-Playing-Cards)** - CSS Flexbox Certification Project 6
-7. **[Book Inventory App](./28-Book-Inventory)** - HTML/CSS Certification Project 7
+7. **[Book Inventory](./28-Book-Inventory)** - HTML/CSS Certification Project 7
 
 ---
 
