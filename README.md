@@ -121,6 +121,7 @@ These are custom, objective-driven projects I built independently from scratch f
 | 26 | [🏠 House Painting](./HTML-CSS/26-House-Painting) | Relative coordinate framing, absolute child positioning, `linear-gradient`, `z-index` layering | 🚀 Independent |
 | 27 | [📊 Balance Sheet](./HTML-CSS/27-Balance-Sheet) | Accessible `.sr-only` clipping, `position: sticky` headers, HTML `<table>` structure, double-border formatting | 📖 Curriculum |
 | 28 | [📚 Book Inventory](./HTML-CSS/28-Book-Inventory) | Advanced CSS attribute selectors (`~=`, `^=`), custom dot rating indicators, dynamic table gradients | 🏆 Certification |
+| 29 | [🎹 Piano](./29-Piano) | `::after` pseudo-elements, responsive media queries, absolute positioning, `box-sizing` | 📖 Curriculum |
 
 ---
 
