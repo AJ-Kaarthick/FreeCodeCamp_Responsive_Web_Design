@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tennis Technical Fundamentals Documentation</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <nav id="navbar">
+      <header>Tennis Mechanics Docs</header>
+      <a class="nav-link" href="#Introduction_to_Stroke_Mechanics">Introduction to Stroke Mechanics</a>
+      <a class="nav-link" href="#Forehand_Kinetic_Chain">Forehand Kinetic Chain</a>
+      <a class="nav-link" href="#Backhand_Drive_Execution">Backhand Drive Execution</a>
+      <a class="nav-link" href="#Serve_Biomechanics_and_Toss">Serve Biomechanics and Toss</a>
+      <a class="nav-link" href="#Footwork_and_Split_Step">Footwork and Split Step</a>
+    </nav>
+
+    <main id="main-doc">
+      <section class="main-section" id="Introduction_to_Stroke_Mechanics">
+        <header>Introduction to Stroke Mechanics</header>
+        <p>
+          Mastering modern tennis requires a deep understanding of rotational physics, contact geometry, and footwork patterns. Clean energy transfer allows players to hit with heavy topspin while preserving shoulder health.
+        </p>
+        <p>
+          We formalize stroke timing using execution vectors. A stroke can be represented algorithmically:
+        </p>
+        <code>stroke_energy = leg_drive * core_rotation * racquet_lag;</code>
+        <p>Key stroke principles include:</p>
+        <ul>
+          <li>Unit turn initiation prior to ball bounce</li>
+          <li>Low-to-high swing path trajectories</li>
+          <li>Dynamic balance retention through impact</li>
+        </ul>
+      </section>
+
+      <section class="main-section" id="Forehand_Kinetic_Chain">
+        <header>Forehand Kinetic Chain</header>
+        <p>
+          The modern forehand generates power starting from ground reaction forces through the angular momentum of the hips. Angular velocity peaks right before racquet acceleration begins.
+        </p>
+        <p>
+          Calculate mechanical angular energy using the velocity matrix formula:
+        </p>
+        <code>function calcForehandTorque(hipSpeed, shoulderSpeed) { return hipSpeed * 1.4 + shoulderSpeed * 2.1; }</code>
+        <p>Crucial forehand checkpoints:</p>
+        <ul>
+          <li>Semi-western grip alignment</li>
+          <li>Pre-impact racquet face closed slightly downward</li>
+        </ul>
+      </section>
+
+      <section class="main-section" id="Backhand_Drive_Execution">
+        <header>Backhand Drive Execution</header>
+        <p>
+          Whether using a single-handed or double-handed backhand, driving through the ball relies on complete shoulder rotation and early contact out in front of the body.
+        </p>
+        <p>
+          To configure backhand timing parameters:
+        </p>
+        <code>const backhandConfig = { grip: "Eastern", contactPoint: "18_inches_ahead" };</code>
+        <p>Execution guidelines for drive depth:</p>
+        <ul>
+          <li>Non-dominant hand driving through target line on two-handers</li>
+          <li>Chest remaining sideways through contact phase</li>
+        </ul>
+      </section>
+
+      <section class="main-section" id="Serve_Biomechanics_and_Toss">
+        <header>Serve Biomechanics and Toss</header>
+        <p>
+          The serve is the only stroke completely controlled by the server. It requires explicit kinetic coordination between knee flex, trophy position loading, and pronation at contact.
+        </p>
+        <p>
+          Representing serve pronation state:
+        </p>
+        <code>let pronationAngle = calculateRacquetPronation(wristSnapTime);</code>
+        <p>Fundamental serve sequences:</p>
+        <ul>
+          <li>Consistent toss release at eye level</li>
+          <li>Explosive leg drive driving upward into the court</li>
+        </ul>
+      </section>
+
+      <section class="main-section" id="Footwork_and_Split_Step">
+        <header>Footwork and Split Step</header>
+        <p>
+          Elite court coverage starts with timing the split step precisely as the opponent strikes the ball. This unweights the player's body for immediate multi-directional reaction.
+        </p>
+        <p>
+          Checking reaction window timing:
+        </p>
+        <code>if (opponentContact === true) { player.executeSplitStep(); }</code>
+        <p>Movement execution steps:</p>
+        <ul>
+          <li>Balanced wide base stance on landings</li>
+          <li>Crossover steps for long baseline recovery distances</li>
+        </ul>
+      </section>
+    </main>
+  </body>
+</html>

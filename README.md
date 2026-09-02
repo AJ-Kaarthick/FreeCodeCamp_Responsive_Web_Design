@@ -16,6 +16,7 @@ Welcome to my central hub tracking my learning journey through the freeCodeCamp 
 5. **[Personal Portfolio](./HTML-CSS/15-Personal-Portfolio)** - HTML/CSS Certification Project 5
 6. **[Playing Cards Layout Page](./HTML-CSS/20-Playing-Cards)** - CSS Flexbox Certification Project 6
 7. **[Book Inventory](./28-Book-Inventory)** - HTML/CSS Certification Project 7
+8. **[Technical Documentation Page](./30-Technical-Documentation)** - HTML/CSS Certification Project using fixed side navigation, inline code snippets, and media query breakpoints.
 
 ---
 
@@ -51,7 +52,8 @@ These are custom, objective-driven projects I built independently from scratch f
 *   [📰 22: Newspaper Article](./HTML-CSS/22-Newspaper-Article) - Traditional print editorial layout demonstrating relative unit scaling (`rem`/`em`), drop-cap styling (`::first-letter`), and text indentation rules.
 *   [🎾 24: Tribute Page - Roger Federer](./HTML-CSS/24-Tribute-Page) - Responsive editorial tribute layout with fluid media scaling (`max-width: 100%`), semantic figure captions, and block-level centering.
 *   [🏠 26: House Painting](./HTML-CSS/26-House-Painting) - Architectural composition using `position: relative` coordinate framing, absolute child positioning, linear gradient environment styling, and `z-index` stacking context.
-* [📚 28: Book Inventory](./HTML-CSS/28-Book-Inventory) - Tabular data app built with advanced CSS attribute selectors (`~=`, `^=`), custom rating indicators, and dark slate linear gradients.
+*   [📚 28: Book Inventory](./HTML-CSS/28-Book-Inventory) - Tabular data app built with advanced CSS attribute selectors (`~=`, `^=`), custom rating indicators, and dark slate linear gradients.
+*   [🎾 30: Technical Documentation Page](./30-Technical-Documentation) - Tennis biomechanics documentation page featuring fixed side navigation, inline `<code>` elements, and responsive `@media` breakpoints.
 
 ---
 
@@ -122,6 +124,7 @@ These are custom, objective-driven projects I built independently from scratch f
 | 27 | [📊 Balance Sheet](./HTML-CSS/27-Balance-Sheet) | Accessible `.sr-only` clipping, `position: sticky` headers, HTML `<table>` structure, double-border formatting | 📖 Curriculum |
 | 28 | [📚 Book Inventory](./HTML-CSS/28-Book-Inventory) | Advanced CSS attribute selectors (`~=`, `^=`), custom dot rating indicators, dynamic table gradients | 🏆 Certification |
 | 29 | [🎹 Piano](./29-Piano) | `::after` pseudo-elements, responsive media queries, absolute positioning, `box-sizing` | 📖 Curriculum |
+| 30 | [🎾 Technical Documentation Page](./30-Technical-Documentation) | Fixed sidebar layout, anchor target linking, `<code>` elements, `@media` breakpoints | 🏆 Certification |
 
 ---
 
