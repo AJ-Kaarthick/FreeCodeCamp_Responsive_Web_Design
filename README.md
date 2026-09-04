@@ -128,6 +128,7 @@ These are custom, objective-driven projects I built independently from scratch f
 | 30 | [🎾 Technical Documentation Page](./30-Technical-Documentation) | Fixed sidebar layout, anchor target linking, `<code>` elements, `@media` breakpoints | 🏆 Certification |
 | 31 | [🏙️ City Skyline](./HTML-CSS/31-City-Skyline) | CSS variables (`:root`), `repeating-linear-gradient`, border-triangle shapes, theme media queries | 📖 Curriculum |
 | 32 | [📅 Availability Table](./HTML-CSS/32-Availability-Table) | CSS variables (`:root`), table accessibility (`scope`, `aria-label`), hard-stop `linear-gradient` | 🚀 Independent |
+| 33 | [📰 Magazine](./HTML-CSS/33-Magazine) | CSS Grid layout (`grid-template-columns`, `grid-column`), multi-column text (`column-width`), `::first-letter` pseudo-element | 📖 Curriculum |
 
 ---
 
