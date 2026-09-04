@@ -125,6 +125,7 @@ These are custom, objective-driven projects I built independently from scratch f
 | 28 | [📚 Book Inventory](./HTML-CSS/28-Book-Inventory) | Advanced CSS attribute selectors (`~=`, `^=`), custom dot rating indicators, dynamic table gradients | 🏆 Certification |
 | 29 | [🎹 Piano](./29-Piano) | `::after` pseudo-elements, responsive media queries, absolute positioning, `box-sizing` | 📖 Curriculum |
 | 30 | [🎾 Technical Documentation Page](./30-Technical-Documentation) | Fixed sidebar layout, anchor target linking, `<code>` elements, `@media` breakpoints | 🏆 Certification |
+| 31 | [🏙️ City Skyline](./HTML-CSS/31-City-Skyline) | CSS variables (`:root`), `repeating-linear-gradient`, border-triangle shapes, theme media queries | 📖 Curriculum |
 
 ---
 
