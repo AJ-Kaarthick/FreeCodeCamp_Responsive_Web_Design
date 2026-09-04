@@ -54,12 +54,13 @@ These are custom, objective-driven projects I built independently from scratch f
 *   [🏠 26: House Painting](./HTML-CSS/26-House-Painting) - Architectural composition using `position: relative` coordinate framing, absolute child positioning, linear gradient environment styling, and `z-index` stacking context.
 *   [📚 28: Book Inventory](./HTML-CSS/28-Book-Inventory) - Tabular data app built with advanced CSS attribute selectors (`~=`, `^=`), custom rating indicators, and dark slate linear gradients.
 *   [🎾 30: Technical Documentation Page](./30-Technical-Documentation) - Tennis biomechanics documentation page featuring fixed side navigation, inline `<code>` elements, and responsive `@media` breakpoints.
+*   [📅 32: Availability Table](./HTML-CSS/32-Availability-Table) - Schedule heat-map table with CSS root variables, accessible `aria-label` attributes, and hard-stop linear gradient legends.
 
 ---
 
 ## 📊 Learning Roadmap & Progress
 
-### Part 1: Semantic HTML5 & Accessibility (Folder: `01-HTML`)
+### Module 1: Semantic HTML5 & Accessibility (Folder: `01-HTML`)
 
 | # | Workshop / Project | Key Concepts Explored | Status |
 | :---: | :--- | :--- | :---: |
@@ -126,6 +127,7 @@ These are custom, objective-driven projects I built independently from scratch f
 | 29 | [🎹 Piano](./29-Piano) | `::after` pseudo-elements, responsive media queries, absolute positioning, `box-sizing` | 📖 Curriculum |
 | 30 | [🎾 Technical Documentation Page](./30-Technical-Documentation) | Fixed sidebar layout, anchor target linking, `<code>` elements, `@media` breakpoints | 🏆 Certification |
 | 31 | [🏙️ City Skyline](./HTML-CSS/31-City-Skyline) | CSS variables (`:root`), `repeating-linear-gradient`, border-triangle shapes, theme media queries | 📖 Curriculum |
+| 32 | [📅 Availability Table](./HTML-CSS/32-Availability-Table) | CSS variables (`:root`), table accessibility (`scope`, `aria-label`), hard-stop `linear-gradient` | 🚀 Independent |
 
 ---
 

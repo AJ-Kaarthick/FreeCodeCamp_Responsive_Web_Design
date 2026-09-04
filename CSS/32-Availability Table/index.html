@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Availability Table</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <table>
+      <caption>Weekly Meeting Availability Schedule</caption>
+      <thead>
+        <tr>
+          <th scope="col">Time</th>
+          <th scope="col">Mon</th>
+          <th scope="col">Tue</th>
+          <th scope="col">Wed</th>
+          <th scope="col">Thu</th>
+          <th scope="col">Fri</th>
+          <th scope="col">Sat</th>
+          <th scope="col">Sun</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr class="sharp">
+          <th class="time" scope="row">08:00 AM</th>
+          <td class="available-0" aria-label="0 available"></td>
+          <td class="available-1" aria-label="1 available"></td>
+          <td class="available-2" aria-label="2 available"></td>
+          <td class="available-3" aria-label="3 available"></td>
+          <td class="available-4" aria-label="4 available"></td>
+          <td class="available-5" aria-label="5+ available"></td>
+          <td class="available-0" aria-label="0 available"></td>
+        </tr>
+        <tr class="half">
+          <th class="time" scope="row">09:00 AM</th>
+          <td class="available-5" aria-label="5+ available"></td>
+          <td class="available-4" aria-label="4 available"></td>
+          <td class="available-3" aria-label="3 available"></td>
+          <td class="available-2" aria-label="2 available"></td>
+          <td class="available-1" aria-label="1 available"></td>
+          <td class="available-0" aria-label="0 available"></td>
+          <td class="available-0" aria-label="0 available"></td>
+        </tr>
+        <tr class="sharp">
+          <th class="time" scope="row">10:00 AM</th>
+          <td class="available-3" aria-label="3 available"></td>
+          <td class="available-5" aria-label="5+ available"></td>
+          <td class="available-4" aria-label="4 available"></td>
+          <td class="available-5" aria-label="5+ available"></td>
+          <td class="available-2" aria-label="2 available"></td>
+          <td class="available-1" aria-label="1 available"></td>
+          <td class="available-0" aria-label="0 available"></td>
+        </tr>
+        <tr class="half">
+          <th class="time" scope="row">11:00 AM</th>
+          <td class="available-2" aria-label="2 available"></td>
+          <td class="available-3" aria-label="3 available"></td>
+          <td class="available-5" aria-label="5+ available"></td>
+          <td class="available-4" aria-label="4 available"></td>
+          <td class="available-3" aria-label="3 available"></td>
+          <td class="available-0" aria-label="0 available"></td>
+          <td class="available-0" aria-label="0 available"></td>
+        </tr>
+        <tr class="sharp">
+          <th class="time" scope="row">12:00 PM</th>
+          <td class="available-0" aria-label="0 available"></td>
+          <td class="available-0" aria-label="0 available"></td>
+          <td class="available-0" aria-label="0 available"></td>
+          <td class="available-0" aria-label="0 available"></td>
+          <td class="available-0" aria-label="0 available"></td>
+          <td class="available-0" aria-label="0 available"></td>
+          <td class="available-0" aria-label="0 available"></td>
+        </tr>
+        <tr class="half">
+          <th class="time" scope="row">01:00 PM</th>
+          <td class="available-4" aria-label="4 available"></td>
+          <td class="available-5" aria-label="5+ available"></td>
+          <td class="available-2" aria-label="2 available"></td>
+          <td class="available-3" aria-label="3 available"></td>
+          <td class="available-5" aria-label="5+ available"></td>
+          <td class="available-1" aria-label="1 available"></td>
+          <td class="available-0" aria-label="0 available"></td>
+        </tr>
+      </tbody>
+    </table>
+
+    <div id="legend">
+      <span>Availability</span>
+      <div id="legend-gradient"></div>
+    </div>
+  </body>
+</html>
