@@ -1,0 +1,99 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Georgia, serif;
+  background-color: #f8f6f0;
+  color: #111;
+  padding: 2rem;
+}
+
+.newspaper-layout {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: auto 1fr 1fr 1fr;
+  grid-template-areas:
+    "title title title"
+    "feature-article feature-article cover-image"
+    "secondary-article secondary-article cover-image"
+    "small-article1 small-article2 small-article3";
+  gap: 1.5rem;
+  max-width: 1000px;
+  margin: 0 auto;
+  border: 2px solid #222;
+  padding: 1.5rem;
+  background-color: #fff;
+}
+
+.title {
+  grid-area: title;
+  text-align: center;
+  border-bottom: 3px double #222;
+  padding-bottom: 0.5rem;
+}
+
+.title h1 {
+  font-size: 3rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.feature-article {
+  grid-area: feature-article;
+}
+
+.feature-article h2,
+.secondary-article h2 {
+  font-size: 1.6rem;
+  margin-bottom: 0.5rem;
+  border-bottom: 1px solid #ddd;
+}
+
+.cover-image {
+  grid-area: cover-image;
+}
+
+.cover-image img {
+  max-width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border: 1px solid #ccc;
+}
+
+.secondary-article {
+  grid-area: secondary-article;
+}
+
+.small-article1 {
+  grid-area: small-article1;
+}
+
+.small-article2 {
+  grid-area: small-article2;
+}
+
+.small-article3 {
+  grid-area: small-article3;
+}
+
+.small-article1,
+.small-article2,
+.small-article3 {
+  border-top: 1px solid #222;
+  padding-top: 0.5rem;
+}
+
+.small-article1 h3,
+.small-article2 h3,
+.small-article3 h3 {
+  font-size: 1.2rem;
+  margin-bottom: 0.3rem;
+}
+
+p {
+  line-height: 1.5;
+  font-size: 0.95rem;
+}

@@ -57,6 +57,7 @@ These are custom, objective-driven projects I built independently from scratch f
 *   [🎾 30: Technical Documentation Page](./30-Technical-Documentation) - Tennis biomechanics documentation page featuring fixed side navigation, inline `<code>` elements, and responsive `@media` breakpoints.
 *   [📅 32: Availability Table](./HTML-CSS/32-Availability-Table) - Schedule heat-map table with CSS root variables, accessible `aria-label` attributes, and hard-stop linear gradient legends.
 *   [🛒 34: Product Landing Page](./HTML-CSS/34-Product-Landing-Page) - *FCC Certification Lab* • Amazon-inspired layout with fixed navigation header, embedded video showcases, input forms, and responsive flexbox grids.
+*   [📰 35: Newspaper Layout](./HTML-CSS/35-Newspaper-Layout) - Editorial front-page layout structured with `grid-template-areas`, fractional columns, and responsive image scaling.
 
 ---
 
@@ -132,6 +133,7 @@ These are custom, objective-driven projects I built independently from scratch f
 | 32 | [📅 Availability Table](./HTML-CSS/32-Availability-Table) | CSS variables (`:root`), table accessibility (`scope`, `aria-label`), hard-stop `linear-gradient` | 🚀 Independent |
 | 33 | [📰 Magazine](./HTML-CSS/33-Magazine) | CSS Grid layout (`grid-template-columns`, `grid-column`), multi-column text (`column-width`), `::first-letter` pseudo-element | 📖 Curriculum |
 | 34 | [🛒 Product Landing Page](./HTML-CSS/34-Product-Landing-Page) | Fixed navigation (`position: fixed`), embedded media (`iframe`), form validation, CSS Flexbox layouts | 🏆 Certification |
+| 35 | [📰 Newspaper Layout](./HTML-CSS/35-Newspaper-Layout) | CSS Grid areas (`grid-template-areas`), row/column tracks, media constraints (`max-width: 100%`) | 🚀 Independent |
 
 ---
 
