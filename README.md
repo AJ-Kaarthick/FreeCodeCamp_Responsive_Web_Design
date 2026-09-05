@@ -17,6 +17,7 @@ Welcome to my central hub tracking my learning journey through the freeCodeCamp 
 6. **[Playing Cards Layout Page](./HTML-CSS/20-Playing-Cards)** - CSS Flexbox Certification Project 6
 7. **[Book Inventory](./28-Book-Inventory)** - HTML/CSS Certification Project 7
 8. **[Technical Documentation Page](./30-Technical-Documentation)** - HTML/CSS Certification Project using fixed side navigation, inline code snippets, and media query breakpoints.
+9. **[Product Landing Page](./HTML-CSS/34-Product-Landing-Page)** - HTML/CSS Certification Project 9 using fixed top navigation, flexbox pricing cards, HTML5 form validation, and embedded media frames.
 
 ---
 
