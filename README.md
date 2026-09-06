@@ -134,6 +134,7 @@ These are custom, objective-driven projects I built independently from scratch f
 | 33 | [📰 Magazine](./HTML-CSS/33-Magazine) | CSS Grid layout (`grid-template-columns`, `grid-column`), multi-column text (`column-width`), `::first-letter` pseudo-element | 📖 Curriculum |
 | 34 | [🛒 Product Landing Page](./HTML-CSS/34-Product-Landing-Page) | Fixed navigation (`position: fixed`), embedded media (`iframe`), form validation, CSS Flexbox layouts | 🏆 Certification |
 | 35 | [📰 Newspaper Layout](./HTML-CSS/35-Newspaper-Layout) | CSS Grid areas (`grid-template-areas`), row/column tracks, media constraints (`max-width: 100%`) | 🚀 Independent |
+| 36 | [🎡 Ferris Wheel](./HTML-CSS/36-Ferris-Wheel) | Keyframe animations (`@keyframes`), continuous rotation (`transform: rotate()`), counter-rotation positioning | 📖 Curriculum |
 
 ---
 
