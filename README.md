@@ -137,6 +137,7 @@ These are custom, objective-driven projects I built independently from scratch f
 | 35 | [📰 Newspaper Layout](./HTML-CSS/35-Newspaper-Layout) | CSS Grid areas (`grid-template-areas`), row/column tracks, media constraints (`max-width: 100%`) | 🚀 Independent |
 | 36 | [🎡 Ferris Wheel](./HTML-CSS/36-Ferris-Wheel) | Keyframe animations (`@keyframes`), continuous rotation (`transform: rotate()`), counter-rotation positioning | 📖 Curriculum |
 | 37 | [🌙 Moon Orbit](./HTML-CSS/37-Moon-Orbit-Animation) | CSS `@keyframes` rotation, transform order mechanics, coordinate centering | 🚀 Independent |
+| 38 | [🐧 CSS Penguin](./HTML-CSS/38-CSS-Penguin) | Custom CSS variables (`:root`), complex shape clipping (`border-radius`), linear gradients, keyframe wave animation | 📖 Curriculum |
 
 ---
 
