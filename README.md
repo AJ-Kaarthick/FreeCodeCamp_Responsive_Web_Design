@@ -9,15 +9,11 @@ Welcome to my central hub tracking my learning journey through the freeCodeCamp 
 
 ## 🏆 Official Certification Projects
 
-1. **[Tribute Page](./HTML-CSS/05-Tribute-Page)** - HTML/CSS Certification Project 1
-2. **[Technical Documentation Page](./HTML-CSS/10-Technical-Documentation)** - HTML/CSS Certification Project 2
-3. **[Product Landing Page](./HTML-CSS/12-Product-Landing-Page)** - HTML/CSS Certification Project 3
-4. **[Survey Form](./HTML-CSS/13-Survey-Form)** - HTML/CSS Certification Project 4
-5. **[Personal Portfolio](./HTML-CSS/15-Personal-Portfolio)** - HTML/CSS Certification Project 5
-6. **[Playing Cards Layout Page](./HTML-CSS/20-Playing-Cards)** - CSS Flexbox Certification Project 6
-7. **[Book Inventory](./28-Book-Inventory)** - HTML/CSS Certification Project 7
-8. **[Technical Documentation Page](./30-Technical-Documentation)** - HTML/CSS Certification Project using fixed side navigation, inline code snippets, and media query breakpoints.
-9. **[Product Landing Page](./HTML-CSS/34-Product-Landing-Page)** - HTML/CSS Certification Project 9 using fixed top navigation, flexbox pricing cards, HTML5 form validation, and embedded media frames.
+1. **[Survey Form](./CSS/13-Survey-Form)** - HTML/CSS Certification Project 1 using custom form controls, HTML5 validation, and responsive input groups.
+2. **[Playing Cards Layout Page](./CSS/20-Playing-Cards)** - HTML/CSS Certification Project 2 focusing on CSS Flexbox layouts, grid alignments, and card stacks.
+3. **[Book Inventory](./CSS/28-Book-Inventory)** - HTML/CSS Certification Project 3 built with CSS attribute selectors, custom rating indicators, and dark mode themes.
+4. **[Technical Documentation Page](./CSS/30-Technical-Documentation)** - HTML/CSS Certification Project 4 using fixed sidebar navigation, code blocks, and media query breakpoints.
+5. **[Product Landing Page](./CSS/34-Product-Landing-Page)** - HTML/CSS Certification Project 5 featuring fixed top navigation, flexbox pricing cards, and embedded media.
 
 ---
 
@@ -59,7 +55,7 @@ These are custom, objective-driven projects I built independently from scratch f
 *   [🛒 34: Product Landing Page](./HTML-CSS/34-Product-Landing-Page) - *FCC Certification Lab* • Amazon-inspired layout with fixed navigation header, embedded video showcases, input forms, and responsive flexbox grids.
 *   [📰 35: Newspaper Layout](./HTML-CSS/35-Newspaper-Layout) - Editorial front-page layout structured with `grid-template-areas`, fractional columns, and responsive image scaling.
 *   [🌙 37: Moon Orbit](./HTML-CSS/37-Moon-Orbit-Animation) - Circular planetary orbit animation using CSS `@keyframes`, transform ordering, and coordinate centering.
-
+*   💼 [39: Personal Portfolio Page](./CSS/39-Personal-Portfolio Page) - Professional personal portfolio landing page featuring a fixed navbar, responsive grid layout, and interactive project cards.
 ---
 
 ## 📊 Learning Roadmap & Progress
@@ -138,7 +134,7 @@ These are custom, objective-driven projects I built independently from scratch f
 | 36 | [🎡 Ferris Wheel](./HTML-CSS/36-Ferris-Wheel) | Keyframe animations (`@keyframes`), continuous rotation (`transform: rotate()`), counter-rotation positioning | 📖 Curriculum |
 | 37 | [🌙 Moon Orbit](./HTML-CSS/37-Moon-Orbit-Animation) | CSS `@keyframes` rotation, transform order mechanics, coordinate centering | 🚀 Independent |
 | 38 | [🐧 CSS Penguin](./HTML-CSS/38-CSS-Penguin) | Custom CSS variables (`:root`), complex shape clipping (`border-radius`), linear gradients, keyframe wave animation | 📖 Curriculum |
-
+| 39 | [💼 Personal Portfolio](./HTML-CSS/39-Personal-Portfolio) | Responsive layout (`grid`, `flexbox`), fixed navigation bar, CSS custom variables, smooth scrolling anchor links | 📖 Curriculum |
 ---
 
 ## 💻 How to Run and View the Projects Locally
